@@ -19,54 +19,54 @@
 
 
 ##Server
-MySQL vs oracle
-rDBMS vs NoSQL
-aws vs gcp
-web network communication (주소 입력 시 일어나는 일들)
-paging
-vitual memory
-why use index on RDBMS
-log management
-monitoring
+1. MySQL vs oracle
+2. rDBMS vs NoSQL
+3. aws vs gcp
+4. web network communication (주소 입력 시 일어나는 일들)
+5. paging
+6. vitual memory
+7. why use index on RDBMS
+8. log management
+9. monitoring
 
 
 ##Concept
-MVC
-MFC
-APM
-Apache Tomcat
-Rest(ful) API
-API
-CRUD
-OAuth 2.0
-thread life cycle
-spring
-deadlock
-JVM
-OSI7 Layer
-gradle
-maven
-TCP/IP vs UDP
-Thread vs Process
-VR vs AR vs MR
-git vs svn
+1. MVC
+2. MFC
+3. APM
+4. Apache Tomcat
+5. Rest(ful) API
+6. API
+7. CRUD
+8. OAuth 2.0
+9. thread life cycle
+10. spring
+11. deadlock
+12. JVM
+13. OSI7 Layer
+14. gradle
+15. maven
+16. TCP/IP vs UDP
+17. Thread vs Process
+18. VR vs AR vs MR
+19. git vs svn
 
 
 ##Language
-lambda or Functional language (Scala, etc..)
-c, c++, java
-script language
-object c vs swift
-d3.js
-java collection framework
-react.js vs angular.js
-MEAN
+1. lambda or Functional language (Scala, etc..)
+2. c, c++, java
+3. script language
+4. object c vs swift
+5. d3.js
+6. java collection framework
+7. react.js vs angular.js
+8. MEAN
 
 
 ##Algorithm
-why use C in algorithm
-backtracking
-best performance sort by insert, select, bubble
-worst case quick sort
-tree (b, b+, b- ...)
-heap sort
+1. why use C in algorithm
+2. backtracking
+3. best performance sort by insert, select, bubble
+4. worst case quick sort
+5. tree (b, b+, b- ...)
+6.heap sort
