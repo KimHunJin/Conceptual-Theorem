@@ -1,5 +1,6 @@
 ﻿#Do Check List
 show the Wiki
+[Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 
 ##Android
 1. Retrofit vs Asynctask vs Volley
