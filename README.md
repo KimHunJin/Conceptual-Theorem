@@ -28,6 +28,8 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 7. why use index on RDBMS
 8. log management
 9. monitoring
+10. Database Normalization
+11. Session vs Cookey
 
 
 ##Concept
@@ -50,7 +52,8 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 17. Thread vs Process
 18. VR vs AR vs MR
 19. git vs svn
-
+20. OOP
+21. AOP
 
 ##Language
 1. lambda or Functional language (Scala, etc..)
