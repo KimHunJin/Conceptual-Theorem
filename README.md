@@ -55,6 +55,7 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 19. git vs svn
 20. OOP
 21. AOP
+22. CheckedException vs UnCheckedException
 
 ##Language
 1. lambda or Functional language (Scala, etc..)
