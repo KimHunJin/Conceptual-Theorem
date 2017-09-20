@@ -1,7 +1,7 @@
-﻿#Do Check List
+﻿# Do Check List
 show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 
-##Android
+## Android
 1. Retrofit vs Asynctask vs Volley
 2. android life cycle
 3. recyclerView vs listView
@@ -18,7 +18,7 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 14. RxAndroid, RxJava
 
 
-##Server
+## Server
 1. MySQL vs oracle
 2. rDBMS vs NoSQL
 3. aws vs gcp
@@ -33,7 +33,7 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 12. Druid
 
 
-##Concept
+## Concept
 1. MVC
 2. MFC
 3. APM
@@ -57,7 +57,7 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 21. AOP
 22. CheckedException vs UnCheckedException
 
-##Language
+## Language
 1. lambda or Functional language (Scala, etc..)
 2. c, c++, java
 3. script language
@@ -68,7 +68,7 @@ show the [Wiki](https://github.com/KimHunJin/Conceptual-Theorem/wiki)
 8. MEAN
 
 
-##Algorithm
+## Algorithm
 1. why use C in algorithm
 2. backtracking
 3. best performance sort by insert, select, bubble
